@@ -1,6 +1,6 @@
 ---
-layout: default
+# Welcome To Shashwat's Portfolio
 ---
-
-{% include 01-name.md %}
+## Hello World!
+### I am learning the basics of Github
 
